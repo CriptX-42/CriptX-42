@@ -1,7 +1,7 @@
 
-![](https://i.pinimg.com/originals/16/12/87/161287e215d0839f75f32d69625cd102.gif)
-
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/16/12/87/161287e215d0839f75f32d69625cd102.gif">
+</p>
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
