@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ricardo-svc@live.com**
 
-- ⚡ Fun fact **Time is an illusion. Lunchtime doubly so.**
+- ⚡ The trick to flying is to "throw yourself at the ground and miss"
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
